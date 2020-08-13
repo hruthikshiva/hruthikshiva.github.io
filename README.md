@@ -1,3 +1,3 @@
 # hruthikshiva.github.io
 My Personal Website
-www.hruthikshiva.ml
+hruthikshiva.ml
